@@ -1,7 +1,7 @@
 {
   "eosnewyorkio": {
     "eosuseragree": {
-      "description": "<p>EOS New York is requesting approval from the EOS Block Producers to replace the interim constitution with the EOS User Agreement. The EUA has been proposed in Chinese, Korean, and English.</p><p>ABI: <a href='https://githb.com/eosnewyork/governance/blob/master/eosio.system/eosio.system.abi' target="_blank">Link to ABI</a></p><p>Readable text: <a href='https://github.com/eosnewyork/eosuseragreement/blob/master/README.md' target="_blank">Link to Readable Text</a></p><p>It has been a long road to get here. We appreciate your consideration and thank everyone who has been an active participant in this discussion whether you be for or against. The proposal expires in 30 days.<p>"
+      "description": "<p>EOS New York is requesting approval from the EOS Block Producers to replace the interim constitution with the EOS User Agreement. The EUA has been proposed in Chinese, Korean, and English.</p><p>ABI: <a href='https://githb.com/eosnewyork/governance/blob/master/eosio.system/eosio.system.abi' target='_blank'>Link to ABI</a></p><p>Readable text: <a href='https://github.com/eosnewyork/eosuseragreement/blob/master/README.md' target='_blank'>Link to Readable Text</a></p><p>It has been a long road to get here. We appreciate your consideration and thank everyone who has been an active participant in this discussion whether you be for or against. The proposal expires in 30 days.<p>"
     }
   }
 }
